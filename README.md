@@ -18,3 +18,5 @@ Oskar Morales - Team QA
 Aylin Santa Cruz Vargas - Full stack Backend
 
 Andrea Campos - Full Stack Backend
+
+Jimena Rodriguez V - Lider FullStak - Backend
