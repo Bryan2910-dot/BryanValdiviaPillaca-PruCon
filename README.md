@@ -20,3 +20,5 @@ Aylin Santa Cruz Vargas - Full stack Backend
 Andrea Campos - Full Stack Backend
 
 Jimena Rodriguez V - Lider FullStak - Backend
+
+Josmer Jauregui - Full Stack Backend
