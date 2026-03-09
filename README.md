@@ -10,3 +10,5 @@ Hola Mundo
 Abel Salvatierra - Full Stack Front-End
 
 Abraham Huamán - Lider FullStak - Frontend
+
+Tafur Trujillo - Victor Manuel - Ful stack Backend
