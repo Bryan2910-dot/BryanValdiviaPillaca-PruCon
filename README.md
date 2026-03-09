@@ -16,3 +16,5 @@ Tafur Trujillo - Victor Manuel - Ful stack Backend
 Oskar Morales - Team QA
 
 Aylin Santa Cruz Vargas - Full stack Backend
+
+Andrea Campos - Full Stack Backend
