@@ -14,3 +14,5 @@ Abraham Huamán - Lider FullStak - Frontend
 Tafur Trujillo - Victor Manuel - Ful stack Backend
 
 Oskar Morales - Team QA
+
+Aylin Santa Cruz Vargas - Ful stack Backend
