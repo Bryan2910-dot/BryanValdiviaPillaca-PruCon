@@ -22,3 +22,5 @@ Andrea Campos - Full Stack Backend
 Jimena Rodriguez V - Lider FullStak - Backend
 
 Josmer Jauregui - Full Stack Backend
+
+Jean Carlos Estrada Barrientos - FullStack Backend
