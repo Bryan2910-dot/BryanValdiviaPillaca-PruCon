@@ -24,3 +24,5 @@ Jimena Rodriguez V - Lider FullStak - Backend
 Josmer Jauregui - Full Stack Backend
 
 Jean Carlos Estrada Barrientos - FullStack Backend
+
+Angel Aaron Arturo Palomino Falcon - FullStack Frontend
